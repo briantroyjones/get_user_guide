@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<!--[if IE]><![endif]-->
+<html>
+  
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <title>Interface Basics </title>
+    <meta name="viewport" content="width=device-width">
+    <meta name="title" content="Interface Basics ">
+    <meta name="generator" content="docfx 2.58.9.0">
+    
+    <link rel="shortcut icon" href="../favicon.ico">
+    <link rel="stylesheet" href="../styles/docfx.vendor.css">
+    <link rel="stylesheet" href="../styles/docfx.css">
+    <link rel="stylesheet" href="../styles/main.css">
+    <meta property="docfx:navrel" content="../toc.html">
+    <meta property="docfx:tocrel" content="toc.html">
+    
+    
+    
+  </head>
+  <body data-spy="scroll" data-target="#affix" data-offset="120">
+    <div id="wrapper">
+      <header>
+        
+        <nav id="autocollapse" class="navbar navbar-inverse ng-scope" role="navigation">
+          <div class="container">
+            <div class="navbar-header">
+              <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+              </button>
+              
+              <a class="navbar-brand" href="../index.html">
+                <img id="logo" class="svg" src="../logo.svg" alt="">
+              </a>
+            </div>
+            <div class="collapse navbar-collapse" id="navbar">
+              <form class="navbar-form navbar-right" role="search" id="search">
+                <div class="form-group">
+                  <input type="text" class="form-control" id="search-query" placeholder="Search" autocomplete="off">
+                </div>
+              </form>
+            </div>
+          </div>
+        </nav>
+        
+        <div class="subnav navbar navbar-default">
+          <div class="container hide-when-search" id="breadcrumb">
+            <ul class="breadcrumb">
+              <li></li>
+            </ul>
+          </div>
+        </div>
+      </header>
+      <div role="main" class="container body-content hide-when-search">
+        
+        <div class="sidenav hide-when-search">
+          <a class="btn toc-toggle collapse" data-toggle="collapse" href="#sidetoggle" aria-expanded="false" aria-controls="sidetoggle">Show / Hide Table of Contents</a>
+          <div class="sidetoggle collapse" id="sidetoggle">
+            <div id="sidetoc"></div>
+          </div>
+        </div>
+        <div class="article row grid-right">
+          <div class="col-md-10">
+            <article class="content wrap" id="_content" data-uid="">
+
+
+<p sourcefile="articles/interface-basics.md" sourcestartlinenumber="8">#Interface Basics</p>
+<h2 id="toolbar-and-views" sourcefile="articles/interface-basics.md" sourcestartlinenumber="10">Toolbar and Views</h2>
+<p sourcefile="articles/interface-basics.md" sourcestartlinenumber="12">The first item displayed is the header or station alert line. This header includes a <strong sourcefile="articles/interface-basics.md" sourcestartlinenumber="12">search box, several icons, and other components.</strong></p>
+<p sourcefile="articles/interface-basics.md" sourcestartlinenumber="14"><img src="assets/img/rs20_l2p4A.png" sourcefile="articles/interface-basics.md" sourcestartlinenumber="14" alt="Toolbar"></p>
+<ol sourcefile="articles/interface-basics.md" sourcestartlinenumber="16">
+<li sourcefile="articles/interface-basics.md" sourcestartlinenumber="16">Latest changes</li>
+<li sourcefile="articles/interface-basics.md" sourcestartlinenumber="17">Search Box</li>
+<li sourcefile="articles/interface-basics.md" sourcestartlinenumber="18">Delay list</li>
+<li sourcefile="articles/interface-basics.md" sourcestartlinenumber="19">Swap Report</li>
+<li sourcefile="articles/interface-basics.md" sourcestartlinenumber="20">Tarmac Report</li>
+<li sourcefile="articles/interface-basics.md" sourcestartlinenumber="21">Crew Connection Report</li>
+<li sourcefile="articles/interface-basics.md" sourcestartlinenumber="22">Connect ME</li>
+</ol>
+<h2 id="station-tool-bar-components-continued" sourcefile="articles/interface-basics.md" sourcestartlinenumber="24">Station Tool Bar Components (continued)</h2>
+<p sourcefile="articles/interface-basics.md" sourcestartlinenumber="26"><img src="assets/img/rs20_l2p5A.png" sourcefile="articles/interface-basics.md" sourcestartlinenumber="26" alt="Toolbar"></p>
+<ol sourcefile="articles/interface-basics.md" sourcestartlinenumber="28">
+<li sourcefile="articles/interface-basics.md" sourcestartlinenumber="28">Activity Log</li>
+<li sourcefile="articles/interface-basics.md" sourcestartlinenumber="29">Search box</li>
+<li sourcefile="articles/interface-basics.md" sourcestartlinenumber="30">Delay list</li>
+<li sourcefile="articles/interface-basics.md" sourcestartlinenumber="31">Swap Report</li>
+<li sourcefile="articles/interface-basics.md" sourcestartlinenumber="32">Data Indicator</li>
+</ol>
+<p sourcefile="articles/interface-basics.md" sourcestartlinenumber="34">Let’s explore how you can filter flight information using the Dashboard features.</p>
+<ol sourcefile="articles/interface-basics.md" sourcestartlinenumber="36">
+<li sourcefile="articles/interface-basics.md" sourcestartlinenumber="36">Click the slider to view the flights that have already departed. Click it again to revert to the not departed list. This affects both the Dashboard and flight display - section that appears below the Dashboard.</li>
+<li sourcefile="articles/interface-basics.md" sourcestartlinenumber="37">Click any of the Flight Statistics to filter your list or Gantt chart accordingly.</li>
+<li sourcefile="articles/interface-basics.md" sourcestartlinenumber="38">To return to the full view, click the Gate Details box.
+<img src="assets/img/rs20_l2p7.png" sourcefile="articles/interface-basics.md" sourcestartlinenumber="39" alt="Dash Board"></li>
+</ol>
+<h3 id="dashboard-filter-window" sourcefile="articles/interface-basics.md" sourcestartlinenumber="41">Dashboard Filter Window</h3>
+<p sourcefile="articles/interface-basics.md" sourcestartlinenumber="43">The Dashboard Filter window contains the following five tabs:</p>
+<ol sourcefile="articles/interface-basics.md" sourcestartlinenumber="45">
+<li sourcefile="articles/interface-basics.md" sourcestartlinenumber="45">Station/Zone</li>
+<li sourcefile="articles/interface-basics.md" sourcestartlinenumber="46">Event/Alert</li>
+<li sourcefile="articles/interface-basics.md" sourcestartlinenumber="47">Stats</li>
+<li sourcefile="articles/interface-basics.md" sourcestartlinenumber="48">Advanced</li>
+<li sourcefile="articles/interface-basics.md" sourcestartlinenumber="49">View Settings</li>
+</ol>
+<h3 id="dashboard" sourcefile="articles/interface-basics.md" sourcestartlinenumber="51">Dashboard</h3>
+<p sourcefile="articles/interface-basics.md" sourcestartlinenumber="53">Directly below the Station Tool Bar header is the Dashboard. The Dashboard displays the following:</p>
+<ul sourcefile="articles/interface-basics.md" sourcestartlinenumber="55">
+<li sourcefile="articles/interface-basics.md" sourcestartlinenumber="55">Gate Details</li>
+<li sourcefile="articles/interface-basics.md" sourcestartlinenumber="56">Flight Statistics</li>
+<li sourcefile="articles/interface-basics.md" sourcestartlinenumber="57">Alerting Events</li>
+<li sourcefile="articles/interface-basics.md" sourcestartlinenumber="58">Alerting Flights</li>
+</ul>
+<p sourcefile="articles/interface-basics.md" sourcestartlinenumber="60"><img src="assets/img/rs20_l2p3N.png" sourcefile="articles/interface-basics.md" sourcestartlinenumber="60" alt="Dash Board"></p>
+<h3 id="eventalert-icon-descriptions-for-alerting-events" sourcefile="articles/interface-basics.md" sourcestartlinenumber="62">Event/Alert: Icon Descriptions for Alerting Events</h3>
+<p sourcefile="articles/interface-basics.md" sourcestartlinenumber="64">The Dashboard displays icons for Alerting Events.
+<img src="assets/img/rs20_l3p6A.png" sourcefile="articles/interface-basics.md" sourcestartlinenumber="65" alt="Dash Board">
+:::note
+Click the Alerting Events section of the Dashboard image to see descriptions of each icon.
+:::</p>
+<h3 id="stats" sourcefile="articles/interface-basics.md" sourcestartlinenumber="70">Stats</h3>
+<p sourcefile="articles/interface-basics.md" sourcestartlinenumber="72"><img src="assets/img/rs20_l3p7A.png" sourcefile="articles/interface-basics.md" sourcestartlinenumber="72" alt="Dash Board"></p>
+<p sourcefile="articles/interface-basics.md" sourcestartlinenumber="74">:::note
+The Stats tab allows you to select which Flight Statistics displays in the Dashboard section. Again, after making choices, click Apply.
+:::</p>
+<p sourcefile="articles/interface-basics.md" sourcestartlinenumber="78"><img src="assets/img/rs20_l3p7B.png" sourcefile="articles/interface-basics.md" sourcestartlinenumber="78" alt="Dash Board"></p>
+<h3 id="stat-icon-definitions" sourcefile="articles/interface-basics.md" sourcestartlinenumber="80">Stat Icon Definitions</h3>
+<p sourcefile="articles/interface-basics.md" sourcestartlinenumber="82"><img src="assets/img/rs20_l3p8.png" sourcefile="articles/interface-basics.md" sourcestartlinenumber="82" alt="Stat Icons"></p>
+<p sourcefile="articles/interface-basics.md" sourcestartlinenumber="84"><img src="assets/img/rs20_l3p9.png" sourcefile="articles/interface-basics.md" sourcestartlinenumber="84" alt="Stat Icons"></p>
+<h3 id="advanced-settings" sourcefile="articles/interface-basics.md" sourcestartlinenumber="86">Advanced Settings</h3>
+<p sourcefile="articles/interface-basics.md" sourcestartlinenumber="88">The Advanced tab allows you to select the type of flights you wish to monitor. Use the check boxes next to each category to filter flights. For example, deselecting the American Eagle check box removes all American Eagle flights from the view. Again, after making choices, click Apply.</p>
+<p sourcefile="articles/interface-basics.md" sourcestartlinenumber="90"><img src="assets/img/rs20_l3p10.png" sourcefile="articles/interface-basics.md" sourcestartlinenumber="90" alt="Stat Icons"></p>
+</article>
+          </div>
+          
+          <div class="hidden-sm col-md-2" role="complementary">
+            <div class="sideaffix">
+              <div class="contribution">
+                <ul class="nav">
+                </ul>
+              </div>
+              <nav class="bs-docs-sidebar hidden-print hidden-xs hidden-sm affix" id="affix">
+                <h5>In This Article</h5>
+                <div></div>
+              </nav>
+            </div>
+          </div>
+        </div>
+      </div>
+      
+      <footer>
+        <div class="grad-bottom"></div>
+        <div class="footer">
+          <div class="container">
+            <span class="pull-right">
+              <a href="#top">Back to top</a>
+            </span>
+            
+            <span>Generated by <strong>DocFX</strong></span>
+          </div>
+        </div>
+      </footer>
+    </div>
+    
+    <script type="text/javascript" src="../styles/docfx.vendor.js"></script>
+    <script type="text/javascript" src="../styles/docfx.js"></script>
+    <script type="text/javascript" src="../styles/main.js"></script>
+  </body>
+</html>

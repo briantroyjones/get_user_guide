@@ -1,0 +1,12 @@
+- name: View Types
+  href: view-types.md
+- name: Setting Your User Role
+  href: set-user-roles.md
+- name: Personalizing GET
+  href: personalizing-get.md
+- name: Add your introductions here!
+  href: intro.md
+- name: Interface Basics 
+  href: interface-basics.md
+- name: Installing GET
+  href: installing.md
